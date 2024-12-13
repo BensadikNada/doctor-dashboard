@@ -1,0 +1,57 @@
+{
+  "name": "material-tailwind-dashboard-react",
+  "private": true,
+  "version": "2.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 3000",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "react",
+    "react-router",
+    "swr",
+    "tailwindcss",
+    "vercel",
+    "axios",
+    "react-hooks",
+    "laravel",
+    "sanctum",
+    "vite"
+  ],
+  "dependencies": {
+    "@heroicons/react": "2.0.18",
+    "@material-tailwind/react": "2.1.4",
+    "@nextui-org/react": "^2.2.9",
+    "apexcharts": "3.44.0",
+    "autoprefixer": "^10.4.16",
+    "axios": "^0.26.1",
+    "chart.js": "^4.4.2",
+    "date-fns": "^3.3.1",
+    "framer-motion": "^11.0.5",
+    "moment": "^2.30.1",
+    "next-themes": "^0.2.1",
+    "prop-types": "15.8.1",
+    "react": "18.2.0",
+    "react-apexcharts": "1.4.1",
+    "react-big-calendar": "^1.10.3",
+    "react-chartjs-2": "^5.2.0",
+    "react-day-picker": "^8.10.0",
+    "react-dom": "18.2.0",
+    "react-router-dom": "6.17.0",
+    "react-select": "^5.8.0",
+    "swr": "^2.2.4"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.31",
+    "@types/react-dom": "18.2.14",
+    "@vitejs/plugin-react": "4.1.0",
+    "autoprefixer": "10.4.16",
+    "postcss": "8.4.31",
+    "prettier": "3.0.3",
+    "prettier-plugin-tailwindcss": "0.5.6",
+    "tailwindcss": "3.3.4",
+    "vite": "4.5.0"
+  }
+}
